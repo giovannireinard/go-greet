@@ -1,6 +1,6 @@
-package go_greet
+package gogreet
 
 // Greet returns "Hello" string.
-func Greet() string {
-	return "Hello :)"
+func Greet(name string) string {
+	return "Hi, " + name
 }
