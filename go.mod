@@ -1,3 +1,3 @@
-module github.com/Girein/go-greet
+module github.com/giovannireinard/go-greet
 
 go 1.15
